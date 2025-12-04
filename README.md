@@ -21,7 +21,7 @@ Django 5.0 project for managing course evaluations with faculty, departments, in
 
 - The entire site is protected with HTTP Basic Authentication. Use:
   - **Username:** `admin`
-  - **Password:** `Admin#184!`
+  - **Password:** ``
 - A Django superuser with the same credentials is created by migrations for accessing the admin site at `/admin/`.
 
 ## Data model highlights
